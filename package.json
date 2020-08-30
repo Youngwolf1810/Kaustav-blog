@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Kaustav's blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "My own personal blog for tech related stuff.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Kaustav Banerjee <kaustav123.kb@@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -39,14 +39,12 @@
     "prettier": "2.1.0"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "0BSD",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/Youngwolf1810/Kaustav-s-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
