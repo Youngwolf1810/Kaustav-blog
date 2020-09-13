@@ -2,10 +2,9 @@ module.exports = {
   siteMetadata: {
     title: `Kaustav's Blog`,
     author: {
-      name: `Kaustav Banerjee`,
-      summary: `Hi!I am Kaustav! A software engineer
-      who likes to build projects and has a keen 
-      intereset in frontend technologies!!`
+      name: `Kaustav`,
+      summary:
+        " A software engineer who likes to build projects and has a keen intereset in frontend technologies!!"
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://kaustav-blog.netlify.app/`,
