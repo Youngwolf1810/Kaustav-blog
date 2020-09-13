@@ -50,6 +50,11 @@ As I was saying earlier,no matter how many
 courses you get yourself enrolled into,if
 you truly want to master something,practice is the only key.
 
+Building a project from scratch truly helps in
+strengthening your concept.You encounter
+thousands of difficulties...you search for the correct solution...
+you learn a lot of other things along the way.That's how it should be.
+
 After completing a course,instead of jumping into another,take some time.Build something with what you have learnt.Read the docs of the library/framework you came to know about in the course.If a project was built in the course improvise on that.Knowledge is not much of use if you are not applying it.
 
 ###Thoughts
