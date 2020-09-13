@@ -4,14 +4,6 @@
       "views": [
         {
           "id": "codesandbox.browser"
-        },
-        {
-          "id": "codesandbox.browser",
-          "options": {
-            "port": 8000,
-            "url": "https://blor6-8000.sse.codesandbox.io"
-          },
-          "closeable": true
         }
       ]
     },
