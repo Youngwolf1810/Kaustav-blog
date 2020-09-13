@@ -57,9 +57,10 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
+        Hi! I am <strong>Kaustav !</strong>
+        {author.summary}
         {` `}
-        <a href={`${social.linkedin}`}>You should follow him on linkedin</a>
+        <a href={`${social.linkedin}`}>You should follow me on linkedin</a>
       </p>
     </div>
   )
