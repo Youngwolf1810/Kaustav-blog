@@ -1,6 +1,6 @@
 ---
 title: "Blogs"
-date: "2020-08-13T16:45:01.889Z"
+date: "2020-09-13T16:45:01.889Z"
 description: "This is my first post on my new blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future."
