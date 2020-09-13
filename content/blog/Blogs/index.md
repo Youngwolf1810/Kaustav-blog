@@ -1,6 +1,6 @@
 ---
 title: "Blogs"
-date: "`r Sys.Date()`"
+date: "2020-08-13T16:45:01.889Z"
 description: "This is my first post on my new blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future."
@@ -56,7 +56,8 @@ After completing a course,instead of jumping into another,take some time.Build s
 I think I have made my point.While courses can be helpful to get you an introduction,only practice can make you better day by day.
 
 ####what should I do then?
-Do what suits you better.Some people are pretty comfortable going through the documentation and building something from scratch right from the start,others(including me) find a course more helpful to begin with.Whatever it is at the end of the day
-only one thing matters.PRACTICE!
+Do what suits you better.Some people are pretty comfortable going through the documentation and building something from scratch right from the start,others(including me) find a course more helpful to begin with.Whatever it might be.
+
+> At the end of the day only one thing matters.PRACTICE!
 
 Woah! It's been quite a long post.Never imagined I would write this much on my first post! Hope you liked it.Feel free to drop a message if you did.
