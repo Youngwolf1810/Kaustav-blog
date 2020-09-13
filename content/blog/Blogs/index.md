@@ -13,9 +13,9 @@ writing a blog!! This is completely new to me
 which makes it more interesting!!!
 
 Coming to the point straightaway,recently I have
-seen people debating over whether to
+seen students debating over whether to
 do online courses on sites like Udemy,Coursera,
-Udacity etc. or to build projects in order
+Udacity etc. or to build projects on their own in order
 to gain a new skill.
 While this is a very common confusion
 among students let's talk about
@@ -23,12 +23,12 @@ the aspects of both.
 
 ###Online Courses
 Let's talk about online courses.While sites
-like Udemy,Udacity were already there from
+like Udemy,Udacity etc. were already there from
 before, the online learning curve has seen
 a steep rise in this pandemic.While people
 are in their home,everyone is looking to
 use these sites to their advantage for learning
-new skills.Be it learning a new language or mastering the new framework in the market
+new skills.Be it learning a new language or mastering the new framework currently in the market...
 curated courses are there for everything you
 are looking forward to learn!
 
@@ -56,7 +56,7 @@ After completing a course,instead of jumping into another,take some time.Build s
 I think I have made my point.While courses can be helpful to get you an introduction,only practice can make you better day by day.
 
 ####what should I do then?
-Do what suits you better.Some people are pretty comfortable going through the documentation and building something from scratch right from the start,others(including me) find a course more helpful to begin with.Whatever it might be.
+Do what suits you better.Some people are pretty comfortable going through the documentation and building something from scratch right from the start,others(including me) find a course more helpful to begin with.Totally depends on you.
 
 > At the end of the day only one thing matters.PRACTICE!
 
