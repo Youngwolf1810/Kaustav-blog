@@ -32,14 +32,14 @@ new skills.Be it learning a new language or mastering the new framework in the m
 curated courses are there for everything you
 are looking forward to learn!
 
-Can online courses make you a master?
+####Can online courses make you a master?
 Well...truly you cannot be good at anything
 unless you give it a try.Online courses are
 good enough to introduce you to libraries,
 frameworks,the basics of a language.But unless you yourself go out there and explore more
 on your own it won't benefit much.
 
-Are online courses waste of money then?
+####Are online courses waste of money then?
 No of course not.But learning every new course
 out there just for the sake of certificates definitely is.The job of these sites is to lure you into buying courses which sometimes may not be very useful for you.You yourself have to figure out what exactly you need which
 will help you get the initial boost.
@@ -55,7 +55,7 @@ After completing a course,instead of jumping into another,take some time.Build s
 ###Thoughts
 I think I have made my point.While courses can be helpful to get you an introduction,only practice can make you better day by day.
 
-#what should I do then?
+####what should I do then?
 Do what suits you better.Some people are pretty comfortable going through the documentation and building something from scratch right from the start,others(including me) find a course more helpful to begin with.Whatever it is at the end of the day
 only one thing matters.PRACTICE!
 
