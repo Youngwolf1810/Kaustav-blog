@@ -39,7 +39,9 @@
     "prettier": "2.1.0"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "0BSD",
   "main": "n/a",
   "repository": {

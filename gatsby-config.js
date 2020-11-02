@@ -9,15 +9,17 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://kaustav-blog.netlify.app/`,
     social: {
-      linkedin: `https://www.linkedin.com/in/kaustav-banerjee-2b7825160/`
+      linkedin: `https://www.linkedin.com/in/kaustav-banerjee-2b7825160/`,
+      twitter:`https://twitter.com/Kaustav1810`,
+      github:`https://github.com/Youngwolf1810`
     }
   },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`
+        path: `${__dirname}/content/blogs`,
+        name: `blogs`
       }
     },
     {
@@ -77,8 +79,5 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`
       }
     }
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
   ]
 }

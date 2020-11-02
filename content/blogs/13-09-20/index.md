@@ -1,10 +1,11 @@
 ---
-path: "blogs/first-blog"
 title: "Online Courses vs building projects"
 date: "2020-09-13T16:45:01.889Z"
 description: "This is my first post on my new blog! How exciting!
-
-I'm sure I'll write a lot more interesting things in the future."
+I'm sure I'll write a lot more interesting things in the future.
+Online Courses or building projects.Which is the best
+way to learn coding?In this blog I have shared my views
+on both and what is the best way."
 ---
 
 ###Introduction

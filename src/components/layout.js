@@ -67,4 +67,14 @@ const Layout = ({ location, title, children }) => {
   )
 }
 
-export default Layout
+export default Layout;
+
+
+export const pageQuery = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+}`
