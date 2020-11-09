@@ -9,7 +9,7 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://kaustav-blog.netlify.app/`,
     social: {
-      linkedin: `https://www.linkedin.com/in/kaustav-banerjee-2b7825160/`,
+      linkedin: `https://www.linkedin.com/in/kaustav1810/`,
       twitter:`https://twitter.com/Kaustav1810`,
       github:`https://github.com/kaustav1810`
     }
