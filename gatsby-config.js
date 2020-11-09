@@ -11,7 +11,7 @@ module.exports = {
     social: {
       linkedin: `https://www.linkedin.com/in/kaustav-banerjee-2b7825160/`,
       twitter:`https://twitter.com/Kaustav1810`,
-      github:`https://github.com/Youngwolf1810`
+      github:`https://github.com/kaustav1810`
     }
   },
   plugins: [
