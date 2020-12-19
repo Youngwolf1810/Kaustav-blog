@@ -1,5 +1,5 @@
 ---
-title: "All you need to know about Hoisting"
+title: "All you need to know about Hoisting in JS"
 date: "2020-12-19T16:45:01.889Z"
 description: "hello!!"
 ---
@@ -27,4 +27,4 @@ program starts it's execution,the execution context gets created in two phases:
 -> Code Execution Phase
 
 Let us see with a visual aid what this means.
-![]( './images/basic.png' )
+![execution context]( ./images/basic.png )
