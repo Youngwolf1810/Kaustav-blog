@@ -27,4 +27,9 @@ program starts it's execution,the execution context gets created in two phases:
 -> Code Execution Phase
 
 Let us see with a visual aid what this means.
-![execution context]( ./images/basic.png )
+<figure>
+  <img
+  src="./images/basic.png"
+  alt="The Execution context">
+  <figcaption>Javascript Execution Context</figcaption>
+</figure>
