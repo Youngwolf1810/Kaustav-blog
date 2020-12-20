@@ -177,14 +177,14 @@ years back to avoid this issue of hoisting.
       attached to the **global scope**(the *'window'* object).They can be reinitialized
       any no. of times and are hoisted.
 
-- **let:** variables declared with 'let' are a little more strict.**Reinitialization of these variables are stricly 'NO NO!' and will result in SyntaxError**.Also these variables are not attached to the global scope but in a separate scope alltogether(also referres to as the 'block scope').
+- **let:** variables declared with 'let' are a little more strict.**Redeclaration of these variables are stricly 'NO NO!' and will result in SyntaxError**.Also these variables are not attached to the global scope but in a separate scope alltogether(also referres to as the 'block scope').
 
 - **const:** This is pretty much similar to 'let' only.Only that,unlike 'let' variables
        which can be initialized later,**'const' variables must be initialized at the time of declaration only and can't be reinitialized**.This is also not present int the global scope but in a different scope like 'let'.
 
 <figure>
   <img
-  src="./images/let+const.png"
+  src="./images/letnconst.png"
   alt="let and const variables">
   <figcaption style="text-align:center;">let and const variables</figcaption>
 </figure>
