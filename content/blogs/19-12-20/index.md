@@ -124,10 +124,10 @@ hoisting in JS.There is a common misconception that hoisting means
   alt="execution context for functions">
 </figure>
 
-  Refer to the above code snippet.What do you think will be the output?
-  .
-  .
-  .
+  Refer to the above code snippet.What do you think will be the output?\
+  .\
+  .\
+  .\
 Surprise! Surprise! The output is:
 
 ```
