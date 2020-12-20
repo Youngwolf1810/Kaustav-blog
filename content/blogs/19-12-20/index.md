@@ -162,7 +162,7 @@ This is it! yes,this is only hoisting.All you have to understand is the
 execution context and that's all!!
 
 Well, you might now say that hoisting does not work on all JS objects.Like,
-'let' and 'const' are not hoisted.Well,that is somewhat true and there is
+**'let'** and **'const'** are not hoisted.Well,that is somewhat true and there is
 a reason behind that.
 
 Let's see the different type of JS variables!!
