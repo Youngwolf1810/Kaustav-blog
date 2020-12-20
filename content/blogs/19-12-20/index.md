@@ -1,6 +1,6 @@
 ---
 title: "All you need to know about Hoisting in JS"
-date: "2020-12-19T16:45:01.889Z"
+date: "2020-12-20T16:45:01.889Z"
 description: "This is my 1st blog in any pure technical topic.Here in this blog I talk about
 the very famous concept in Javascript - 'Hoisting'.I have covered in depth exactly what is hoisting
 and what happens behind the scenes"
@@ -24,8 +24,8 @@ a few days back!!
 **The Execution context is the heart of any JS program!!** Even before our
 program starts it's execution,the execution context gets created in two phases:
 
-* The Memory Creation Phase
-* The Code Execution Phase
+* **The Memory Creation Phase**
+* **The Code Execution Phase**
 
 Let us see with a visual aid what this means.
 <figure>
@@ -69,7 +69,7 @@ then the whole function definition is assigned to that particular function.
 
 Let's see what happens next.This is getting interesting already!
 
-The functions were called with arguments(**a** & **b**).So at first 'undefined' was stored
+The functions were called with arguments(**a** & **b**).So at first **'undefined'** was stored
 in place of **'x'** and **'y'**,but in the next step the actual value gets allocated as
 shown below.
 <figure>
@@ -140,6 +140,24 @@ friend execution context,even before the program starts execution, fun1() is ass
 when fun1() gets called before initialization,it works perfectly....but
 printing **'x'** gives **'undefined'**.
 
+Let's see another scenario...can you guess what happens in this case?
+
+<figure>
+  <img
+  src="./images/hoisting2.png"
+  alt="hoisting">
+</figure>
+
+Well it prints **'undefined'** for **'x'** but then when fun1() is called it throws **'TypeError'**.
+This is because **fun1** here acts like a variable only and thus initialized **'undefined'** just
+like **'x'**.
+
+<figure>
+  <img
+  src="./images/TypeError.png"
+  alt="functions assigned to variables">
+</figure>
+
 This is it! yes,this is only hoisting.All you have to understand is the
 execution context and that's all!!
 
@@ -151,7 +169,7 @@ Let's see the different type of JS variables!!
 
 
 ###Let vs Var vs Const
-As many of us know,there are three types of JS variables(let,var & const).
+As many of us know,there are three types of JS variables(**let**,**var** & **const**).
 While 'var' was there from beginning, 'let' and 'const' were introduced few
 years back to avoid this issue of hoisting.
 
@@ -187,10 +205,10 @@ in the execution context.But since both are being accessed before initialization
 they result in **ReferenceError**.
 
 
-But with 'var' it was giving 'undefined' right? Not any 'ReferenceError' or anything!
+But with 'var' it was giving 'undefined' right? Not any 'ReferenceError'!
 
 Yes,and that's because for the time between the declaration of 'let' and 'const'
-variables till the time the get initialized,they are in so called **'Temporal Dead Zone'** and thus inaccessible.As a result when we try to access these
+variables till the time they get initialized,they are in so called **'Temporal Dead Zone'** and thus inaccessible.As a result when we try to access these
 during temporal dead zone,it results in the famous **'ReferenceError'**.
 
 It's always a good practice to **keep your initializations at the very top of your program** to avoid any unforeseen error.
